@@ -84,14 +84,6 @@ I am a Software Systems Engineer with deep expertise in building **low-latency G
 
 ---
 
-## 📊 GitHub System Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Arrow04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arrow04&theme=tokyonight" alt="GitHub Stats" />
-
-</div>
 
 ---
 
