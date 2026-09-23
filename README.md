@@ -1,55 +1,48 @@
-# Hi there, I'm Sayak 👋 (`@Arrow04`)
+# Hi, I'm Sayak 👋
 
-### 🚀 Full-Stack & Systems Developer | Cybersecurity Enthusiast
-
-I specialize in building scalable web applications, cross-platform mobile apps, and security tools. Always exploring cloud architectures, AI coding workflows, and efficient backend design.
+Software Engineer focused on **Full-Stack Development**, **Cybersecurity Automation**, and **Enterprise Systems**.
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Core Tech Stack
 
-**Languages & Core Frameworks**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+**Languages & Backend**  
+`Python` • `Go` • `TypeScript` • `JavaScript` • `Django` • `PostgreSQL` • `Redis`
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend & Mobile**  
+`React` • `Next.js` • `React Native` • `Expo` • `Tailwind CSS`
 
-**Backend, Databases & DevOps**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Security & Infrastructure**  
+`Host Isolation` • `Incident Response Automation` • `Vercel` • `Docker`
 
 ---
 
-### 🛠️ Key Featured Projects
+### 🛠️ Key Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **HRMS & Payroll Platform** | Enterprise-grade Indian payroll engine handling attendance, compliance, leave encashments, and Form 16 generation. | React, Django, PostgreSQL |
-| **Network Host Isolator** | Security automation tool in Go designed to isolate compromised network hosts upon SIEM threat alerts. | Go, Networking, CyberSec |
-| **Cyber Sentinel** | Production security platform showcasing automated incident handling and enterprise utility. | Next.js, Vercel |
+#### 01. HRMS & Payroll Engine
+*Enterprise Payroll & Compliance System*
+- Built automated salary processing, tax calculations, attendance tracking, and Form 16 PDF generation.
+- **Stack**: React, Django, PostgreSQL
+
+#### 02. Network Host Isolator
+*Security Incident Response Utility*
+- Automated host isolation agent written in Go to instantly contain compromised endpoints via SIEM alerts.
+- **Stack**: Go, Network Security, SIEM Protocols
+
+#### 03. Cyber Sentinel
+*Managed Security Platform*
+- Centralized security hub for monitoring threat vectors and deploying automated isolation rules.
+- **Stack**: Next.js, Vercel
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arrow04&show_icons=true&theme=dark&count_private=true" alt="Arrow04's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrow04&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <a href="https://github.com/Arrow04">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arrow04&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Sayak's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Arrow04">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arrow04&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  </a>
 </p>
-
----
-
-### 📫 Connect with Me
-
-- 🌐 **Portfolio / Site**: [cybersentineltech.online](https://cybersentineltech.online)
-- 💼 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com)
-- ✉️ **Email**: `your.email@example.com`
