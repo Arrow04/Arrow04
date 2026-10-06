@@ -67,7 +67,7 @@ I am a Software Systems Engineer with deep expertise in building **low-latency G
 * **Key Architecture & Metrics:**
   * **`hrms_backend`**: Asynchronous FastAPI core utilizing SQLAlchemy 2.0 and Pydantic 2 with row-level `organization_id` security scoping and AI document parsing.
   * **`hrms_react_web`**: High-performance React 19 portal powered by AG Grid for efficient processing of large enterprise datasets.
-  * **`hrms_mobile`**: Expo / React Native application featuring custom offline action queues and selfie-based attendance validation.
+  * **`hrms_mobile`**: Expo / React Native application featuring custom offline action queues and selfie-based (face detection) attendance validation.
 
 ---
 
