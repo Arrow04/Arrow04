@@ -89,6 +89,6 @@ I am a Software Systems Engineer with deep expertise in building **low-latency G
 
 <div align="center">
 
-*“Simplicity is prerequisite for reliability.”* — Edsger W. Dijkstra
+“Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
 
 </div>
